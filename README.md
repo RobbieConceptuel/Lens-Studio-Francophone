@@ -32,12 +32,21 @@ Elle contient les vidéos [Youtube](#youtube) et [Vimeo](#vimeo)
 
 ### Youtube
 
-#### :memo: [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PL8TpfiR7qnhHPicGbvXpvhH5J6CZoB0_B)
+#### :memo: [PLAYLIST YOUTUBE](https://youtube.com/playlist?list=PL8TpfiR7qnhGhlMjBdoPrYdXemImsmDjV)
 
 - [Débutant sur Lens Studio - Tutoriel en Français : Comment faire un Filtre Snapchat ?](https://youtu.be/oIC_j_UlAko)
 
 - [Tutoriel Lens Studio - Comment faire un Filtre 3D ? en Français](https://youtu.be/g-RnEE8MAxg)
 
+- [Créer ses propres filtres snapchat de A à Z ! - Lens Studio](https://youtu.be/GBmNyizVlb4)
+
+- [Crée un filtre snapchat en 5 minutes !](https://youtu.be/U1tQAndvsC0)
+
+- [TUTO- CRÉÉ UN FILTRES SNAPCHAT PERSONNALISÉ (partie 1)](https://youtu.be/9u8xJSC617Q)
+
+- [TUTO- PUBLIER SON FILTRE SNAPCHAT (partie 2)](https://youtu.be/fMvkPeao74c)
+
+- [CREE UN FILTRE SNAP (lens)](https://youtu.be/wazZr_M6BDo)
 
 
 ### Vimeo
