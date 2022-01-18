@@ -6,7 +6,7 @@ Il regroupe tout les tutoriels vidéos ou écrits sur le logiciel Lens Studio po
 Libre à toi d'ajouter des ressources ! :bowtie:
 
 
-  <img src="https://github.com/RobbieConceptuel/Lens-Studio-Francophone/blob/main/Lens-Studio-Francophone.png" width="100">
+  <img src="https://github.com/RobbieConceptuel/Lens-Studio-Francophone/blob/main/Lens-Studio-Francophone.png" width="160">
  
   
 
@@ -59,4 +59,4 @@ Elle contient les vidéos [Youtube](#youtube) et [Vimeo](#vimeo)
 ## [Télécharger Lens Studio](https://lensstudio.snapchat.com/download/)
 
 
-*mis à jour avec :sparkling_heart: par Robbie Conceptuel - 2021*
+*mis à jour avec :sparkling_heart: par Robbie Conceptuel - 2022*
