@@ -59,4 +59,4 @@ Elle contient les vidéos [Youtube](#youtube) et [Vimeo](#vimeo)
 ## [Télécharger Lens Studio](https://lensstudio.snapchat.com/download/)
 
 
-*mis à jour avec :sparkling_heart: par Robbie Conceptuel - 2022*
+*powered by [Conceptuel](https://conceptuel.ch) - 2023*
