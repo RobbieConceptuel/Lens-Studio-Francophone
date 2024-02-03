@@ -59,4 +59,4 @@ Elle contient les vidéos [Youtube](#youtube) et [Vimeo](#vimeo)
 ## [Télécharger Lens Studio](https://lensstudio.snapchat.com/download/)
 
 
-*powered by [Conceptuel](https://conceptuel.ch) - 2023*
+*powered by [Conceptuel](https://conceptuel.ch) - 2024*
